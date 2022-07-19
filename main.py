@@ -46,7 +46,7 @@ SD = SmartDrift(df_current=X_df_2007,
 SD.compile()
 
 SD.generate_report(    
-    output_file='/home/rishiraj/drift/static/index.html',    
+    output_file='/static/index.html',    
     title_story="Data drift",
     title_description="""House price Data drift 2007""", # Optional: add a subtitle to describe report
     )
