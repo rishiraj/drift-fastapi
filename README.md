@@ -7,7 +7,7 @@ pip install lightgbm
 pip install eurybia
 pip install sklearn
 ```
-
+Heroku Procfiles
 ```
-uvicorn main:app --reload
+web: uvicorn main:app --reload
 ```
