@@ -5,3 +5,4 @@ eurybia==1.0.1
 sklearn==0.0
 gunicorn==20.1.0
 uvicorn==0.18.2
+tk==0.1.0
