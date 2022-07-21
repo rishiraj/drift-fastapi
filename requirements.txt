@@ -1,0 +1,6 @@
+fastapi
+category_encoders
+lightgbm
+eurybia
+sklearn
+gunicorn
